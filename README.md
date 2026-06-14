@@ -1,4 +1,4 @@
-
+I am still working on this 
 this is my first project and first github repo so code is quite simple and unorganized.Right now, the pipeline is running a baseline Linear Regression model with an accuracy of around 80%.  the next step will include multiple different model and inclusive code
 so with some help of ai to organize it it's split into 3 part 
 * **`notebooks/EDA.ipynb`**: My scratchpad. This is where I did the initial data exploration and built the charts (like tenure distribution and gender impact) to actually understand the dataset.
